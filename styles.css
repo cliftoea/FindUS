@@ -1,0 +1,49 @@
+#pageTitle{
+
+}
+#container{
+    width: 63%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1em;
+    padding-left: 2em;
+    margin-top: 1em;
+    background-color: #f9f9f9;
+    border-radius: 1em;
+    padding-bottom: 15em;
+}
+body{
+    background-color: #9fcffd;
+}
+h1{
+    font-family: sans-serif;
+}
+#pageli{
+    margin-top: 0.5em;
+
+}
+#logo{
+    width: 17em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#pagesSection{
+    height: max-content;
+    background-color: white;
+    border-radius: 1em;
+    width: fit-content;
+    /* padding-left: 1em; */
+    /* padding-bottom: 0.009em; */
+    padding: 1em;
+    margin-left: 1em;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
