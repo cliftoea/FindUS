@@ -11,7 +11,7 @@
     margin-top: 1em;
     background-color: #f9f9f9;
     border-radius: 1em;
-    padding-bottom: 15em;
+    padding-bottom: 1em;
 }
 body{
     background-color: #9fcffd;
@@ -43,7 +43,76 @@ a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
-
     text-decoration: none;
-    color: initial;
+    color: black;
+    /* color: initial; */
+    background-color: white;
+    font-family: sans-serif;
+    height: 1.5em;
+    /* margin: auto; */
+    /* padding: 1em; */
+    padding-top: 0.5em;
+    width: 10em;
+    /* text-align: -webkit-match-parent; */
+}
+a.button2 {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    width: 4em;
+    font-family: sans-serif;
+    padding-top: 0.2em;
+    text-align: center;
+    /* height: 1em; */
+    margin-top: 1em;
+    margin-left: 16.4em;
+    padding: 0.5em;
+}
+#buttons{
+    text-align: center;
+    margin-top: 1em;
+}
+#profpic{
+    width: 40%;
+}
+
+#profprev{
+    background-color: white;
+    position: absolute;
+    margin-left: 44em;
+    border-radius: 1em;
+    padding: 1em;
+    margin-top: -13.8em;
+}
+#profdet{
+    float: left;
+    margin-top: 2em;
+}
+#profimg{
+    float: left;
+    margin-right: -12em;
+}
+#memberbar{
+    width: 91%;
+    font-family: sans-serif;
+    color: green;
+    background-color: lightgreen;
+    height: 5em;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4em;
+}
+h2{
+    padding-top: 1em;
+}
+#passin{
+    margin-left: 0.3em;
+}
+#forminit{
+    margin-left: 5em;
 }
