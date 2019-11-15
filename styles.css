@@ -116,3 +116,13 @@ h2{
 #forminit{
     margin-left: 5em;
 }
+#pages{
+    height: max-content;
+    background-color: white;
+    border-radius: 1em;
+    width: 92%;
+    /* padding-left: 1em; */
+    /* padding-bottom: 0.009em; */
+    padding: 1em;
+    margin-left: 1em;
+}
